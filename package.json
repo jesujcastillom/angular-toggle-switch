@@ -44,7 +44,7 @@
     "karma-firefox-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.6",
     "karma-script-launcher": "^0.1.0",
-    "matchdep": "~1.0.0"
+    "matchdep": "~2.0.0"
   },
   "scripts": {
     "test": "grunt test -v"
