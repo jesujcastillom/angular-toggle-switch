@@ -39,7 +39,7 @@
     "grunt-karma": "~0.12.1",
     "grunt-ng-annotate": "^1.0.1",
     "grunt-npm": "0.0.2",
-    "jasmine-core": "^2.3.4",
+    "jasmine-core": "^3.7.0",
     "karma-chrome-launcher": "^0.2.1",
     "karma-firefox-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.6",
